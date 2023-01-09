@@ -11,7 +11,7 @@ To create a project called JMeterExporterExtension we can run the following comm
 4. dotnet new classlib -o JMeterExporterExtension
 5. dotnet sln add JMeterExporterExtension
 
-Post this copy the class files in the "JMeterExporterExtension" folder and then execute this command - 
+Post this copy the class files in the "JMeterExporterExtension" folder and edit your .csproj file with the uploaded .csproj file and then execute this command - 
 
 6. dotnet build
 
